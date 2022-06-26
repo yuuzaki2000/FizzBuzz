@@ -7,7 +7,6 @@ public class FizzBuzz {
 				System.out.println("FizzBuzz");
 			}else if(count%3 == 0) {
 				System.out.println("Fizz");
-				
 			}else if(count%5 == 0) {
 				System.out.println("Buzz");
 			}else {
